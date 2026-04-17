@@ -1,4 +1,3 @@
-package Comparative_Analysis_Exercise.Java;
 // Student Registration Status Checker in Java
 import java.util.Scanner;
 
